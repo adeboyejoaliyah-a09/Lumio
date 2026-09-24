@@ -1,0 +1,2 @@
+# Lumio
+AI Learning Companion
